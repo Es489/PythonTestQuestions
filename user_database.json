@@ -1,0 +1,27 @@
+{
+  "users":[
+    {
+      "user_name" : "db441",
+      "department" : "Abc5612",
+      "password":"123456"},
+
+    {
+      "user_name": "db441",
+      "department": "ADc5687",
+      "password": "013528498"
+    },
+
+    {
+      "user_name": "es489",
+      "department": "Kars9675",
+      "password":"Kaxtrtu!"
+    },
+
+    {
+      "user_name": "as901",
+      "department": "Mark35617",
+      "password":"mkKrlov1909£"
+    }
+  ]
+
+}
